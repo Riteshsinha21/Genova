@@ -1,0 +1,65 @@
+    [
+        {
+            "id": 1,
+            "catType": "Spray",
+            "title": "Woody Intense",
+            "image": "Screenshot@1",
+            "originalPrice": "200",
+            "discountedPrice": "150",
+            "discount": 25,
+            "quantity": 0
+        },
+        {
+            "id": 2,
+            "catType": "Spray",
+            "title": "Wild Stone",
+            "image": "Screenshot@2",
+            "originalPrice": "250",
+            "discountedPrice": "180",
+            "discount": 15,
+            "quantity": 0
+        },
+        {
+            "id": 3,
+            "catType": "Spray",
+            "title": "Beardo Godfather",
+            "image": "Screenshot@3",
+            "originalPrice": "500",
+            "discountedPrice": "350",
+            "discount": 30,
+            "quantity": 0
+        },
+        {
+            "id": 4,
+            "catType": "Spray",
+            "title": "Bella Vita",
+            "image": "Screenshot@4",
+            "originalPrice": "300",
+            "discountedPrice": "250",
+            "discount": 5,
+            "quantity": 0
+        },
+        {
+            "id": 5,
+            "catType": "Spray",
+            "title": "DENVER",
+            "image": "Screenshot@5",
+            "originalPrice": "200",
+            "discountedPrice": "150",
+            "discount": 25,
+            "quantity": 0
+        },
+        {
+            "id": 6,
+            "catType": "Spray",
+            "title": "FOG",
+            "image": "Screenshot@6",
+            "originalPrice": "100",
+            "discountedPrice": "25",
+            "discount": 75,
+            "quantity": 0
+        },
+        
+        
+    ]
+

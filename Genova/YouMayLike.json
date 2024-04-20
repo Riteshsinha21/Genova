@@ -1,0 +1,23 @@
+
+[
+    {
+        "id": 1,
+        "title": "Skin Care",
+        "image": "Screenshot@1"
+    },
+    {
+        "id": 2,
+        "title": "Cosmetics",
+        "image": "Screenshot@4"
+    },
+    {
+        "id": 3,
+        "title": "Perfumes",
+        "image": "Screenshot@5"
+    },
+    {
+        "id": 4,
+        "title": "Daily Wears",
+        "image": "Screenshot@6"
+    }
+]
